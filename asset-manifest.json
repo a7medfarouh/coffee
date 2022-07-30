@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/coffee/static/css/main.bb3fc5f2.css",
+    "main.js": "/coffee/static/js/main.5364d00c.js",
+    "static/js/787.a5a00b74.chunk.js": "/coffee/static/js/787.a5a00b74.chunk.js",
+    "static/media/background.png": "/coffee/static/media/background.4beae5c58fdd16b9114e.png",
+    "static/media/fa-solid-900.ttf": "/coffee/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/image.png": "/coffee/static/media/image.de7648de1c7fe6734772.png",
+    "static/media/fa-brands-400.ttf": "/coffee/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/coffee/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/image4.png": "/coffee/static/media/image4.743800bd0421205c8f8b.png",
+    "static/media/image2.png": "/coffee/static/media/image2.2112775d020835ac03e2.png",
+    "static/media/image1.png": "/coffee/static/media/image1.0eb5c4c3479a761dc388.png",
+    "static/media/fa-brands-400.woff2": "/coffee/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/image3.png": "/coffee/static/media/image3.e51c06320bb0b29eff5b.png",
+    "static/media/fa-regular-400.ttf": "/coffee/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/fa-regular-400.woff2": "/coffee/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/fa-v4compatibility.ttf": "/coffee/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/fa-v4compatibility.woff2": "/coffee/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "index.html": "/coffee/index.html",
+    "main.bb3fc5f2.css.map": "/coffee/static/css/main.bb3fc5f2.css.map",
+    "main.5364d00c.js.map": "/coffee/static/js/main.5364d00c.js.map",
+    "787.a5a00b74.chunk.js.map": "/coffee/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb3fc5f2.css",
+    "static/js/main.5364d00c.js"
+  ]
+}
