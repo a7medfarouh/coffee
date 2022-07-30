@@ -1,0 +1,10 @@
+.home{
+    background-image: url(../images/background.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.color-p{
+    color: #D3A130;
+    font-size: 60px;
+}
